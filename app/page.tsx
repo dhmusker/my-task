@@ -4,9 +4,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-left justify-between p-24">
       <div>
-        <p>
-          <h1>Welcome To The Task App</h1>
-        </p>
+        <h1>Welcome To The New Task App</h1>
       </div>
     </main>
   );

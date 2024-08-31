@@ -9,8 +9,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     2. Create the repository on github, from the new my-task directory
        cd to the new directory and set up a github source code repository to remotely save your source code:
         git init
-        git add .
+        git add README.md
         git commit -m "first commit"
-        git remote add origin git@github.com:dhmusker/my-task.git 
-        git branch -M master 
+        git branch -M master
+        git remote add origin https://github.com/dhmusker/my-task.git
+        git push -u origin master
 
