@@ -12,5 +12,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
         git add .
         git commit -m "first commit"
         git remote add origin git@github.com:dhmusker/my-task.git 
-        git branch -M master
+        git branch -M master 
 
